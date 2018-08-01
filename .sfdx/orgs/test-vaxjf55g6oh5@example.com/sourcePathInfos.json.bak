@@ -49,11 +49,11 @@
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1533165812660,
-            "changeTime": 1533165812660,
+            "size": 192,
+            "modifiedTime": 1533165627458,
+            "changeTime": 1533165627458,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 203,
             "modifiedTime": 1533165728439,
             "changeTime": 1533165728439,
-            "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15"
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1533165250824,
+            "changeTime": 1533165250824,
+            "contentHash": "e9a0fc9073af1fd882450129c76449abec83d306",
             "isMetadataFile": false,
-            "size": 543,
-            "modifiedTime": 1533165901919,
-            "changeTime": 1533165901919,
-            "contentHash": "744759611f8a2e3b87c28ffcffb5d9cbc3c97cba"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1533165272622,
+            "changeTime": 1533165272622,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1533165933342,
-            "changeTime": 1533165933342,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -944,27 +944,27 @@
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1533165627461,
             "changeTime": 1533165627461,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1533165627461,
             "changeTime": 1533165627461,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -974,62 +974,62 @@
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 331,
-            "modifiedTime": 1533165998307,
-            "changeTime": 1533165998307,
-            "contentHash": "3c0a03b4b5e415886724191873141d99775bb976"
+            "size": 257,
+            "modifiedTime": 1533165667751,
+            "changeTime": 1533165667751,
+            "contentHash": "3db53485d80f66fb1f2ed3b639b86316e4ac2208"
         }
     ],
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1533165627459,
             "changeTime": 1533165627459,
-            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52"
         }
     ],
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 46,
             "modifiedTime": 1533165698655,
             "changeTime": 1533165698655,
-            "contentHash": "724275a72e68b7812ce001b8cb0d8870eeacd1fd",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "724275a72e68b7812ce001b8cb0d8870eeacd1fd"
         }
     ],
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1533165627461,
             "changeTime": 1533165627461,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1533165627460,
             "changeTime": 1533165627460,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
@@ -1039,75 +1039,36 @@
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 831,
-            "modifiedTime": 1533166033513,
-            "changeTime": 1533166033513,
-            "contentHash": "1fa3caca740feb3d18a86e5189549585a9bc2050"
+            "size": 388,
+            "modifiedTime": 1533165684098,
+            "changeTime": 1533165684098,
+            "contentHash": "ddfee058bc97d8de3ee3ca2d503df29721da7901"
         }
     ],
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1533165627459,
             "changeTime": 1533165627459,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1533165627460,
             "changeTime": 1533165627460,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1533165812660,
-            "changeTime": 1533165812660,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1533165835514,
-            "changeTime": 1533165835514,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/claire.bianchi/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1533165812660,
-            "changeTime": 1533165812660,
-            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]

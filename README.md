@@ -1,3 +1,3 @@
 # treailhead
 we use trailhead to learn things :)
-all the things
+thats what we do
